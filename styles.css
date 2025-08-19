@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+    padding: 10px;
+    margin: 30px;
+}
+
+.list{
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+
